@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body{
+    background-image: url(imagens/fundo-madeira.jpg);
+    height: 98vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+main{
+    background-image: url(imagens/frame-iphone.png);
+}
