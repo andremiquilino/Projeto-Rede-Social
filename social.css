@@ -1,0 +1,28 @@
+@charset "UTF-8";
+* {
+    margin: 0px;
+    padding: 0px;
+}
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+a{
+    background-color: rgb(178, 52, 52);
+    display: block;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 50px;
+}
+a:hover{
+    background-color: rgb(187, 18, 18);
+}
+body{
+    background-size: cover;
+    background-attachment: fixed;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
